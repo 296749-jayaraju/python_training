@@ -1,0 +1,24 @@
+************************************* Invoked: Mon Jul 7 15:55:48 2025
+[0] Arguments: C:\Users\E145LBLR\Downloads\msys2-x86_64-20250622.exe
+[2] Operations sanity check succeeded.
+[3] Warning: Cannot create lock file "C:\Users\E145LBLR\AppData\Local\Temp\msys2-x86_64-202506221234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[14] UnableToStart : Unable to start installer : Another msys2-x86_64-20250622 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Mon Jul 7 15:55:48 2025
+[0] Arguments: C:\Users\E145LBLR\Downloads\msys2-x86_64-20250622.exe
+[45] Operations sanity check succeeded.
+[46] Warning: Cannot create lock file "C:\Users\E145LBLR\AppData\Local\Temp\msys2-x86_64-202506221234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[58] UnableToStart : Unable to start installer : Another msys2-x86_64-20250622 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Mon Jul 7 15:55:48 2025
+[0] Arguments: C:\Users\E145LBLR\Downloads\msys2-x86_64-20250622.exe
+[4] Operations sanity check succeeded.
+[5] Warning: Cannot create lock file "C:\Users\E145LBLR\AppData\Local\Temp\msys2-x86_64-202506221234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[19] UnableToStart : Unable to start installer : Another msys2-x86_64-20250622 instance is already running. Wait until it finishes, close it, or restart your system.
+************************************* Invoked: Mon Jul 7 15:56:03 2025
+[0] Arguments: C:\Users\E145LBLR\Downloads\msys2-x86_64-20250622.exe
+[4] Operations sanity check succeeded.
+[5] Warning: Cannot create lock file "C:\Users\E145LBLR\AppData\Local\Temp\msys2-x86_64-202506221234865.lock": The process cannot access the file because it is being used by another process.
+ (0x00000020)
+[15] UnableToStart : Unable to start installer : Another msys2-x86_64-20250622 instance is already running. Wait until it finishes, close it, or restart your system.
